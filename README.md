@@ -16,7 +16,7 @@ To run this code automatically when your computer starts up, you can place it in
     - Type "taskschd.msc" and press Enter to open the Task Manager.
     - Click on "Create a basic task" in the Action menu.
     - Fill in the details of the task, such as name and description, and click "Next".
-    - In the Triggers section, click "New" and set the trigger to "On startup".
+    - In the Triggers section, click "New" and set the trigger to "At the opening of the session".
     - In the Actions section, click on "New" and set the action to "Start a program".
     - Select the .py file you have created and click "Next".
     - Click "Finish" to save the task.
