@@ -2,6 +2,7 @@
 A script that opens quizlet.com each time the computer is started.
 
 ## Informations
+**THIS CODE IS PERSONAL, IT HAS BEEN CREATED IN ORDER TO GO ON THE [QUIZLET.COM](https://quizlet.com] SITE EACH TIME I START MY COMPUTER, BUT YOU CAN OF COURSE MODIFY ITS USE**
 
 Before starting the project, you need to change the URL of the website you want to visit each time you start your computer in the python code.
 Your [python file should look like this](https://user-images.githubusercontent.com/96443442/215823096-26eb7b56-dc43-44b1-a54d-089e9d8e9593.png).
